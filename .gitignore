@@ -32,4 +32,13 @@
 *.app
 
 # Folders
+/build/*
+
+### Output and Cache Directories ###
+/External/
+/Debug/
+/Docs/
+/Release/
 /build/
+/bin/
+/out/
