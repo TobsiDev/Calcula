@@ -1,0 +1,12 @@
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/Experimental.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/Continuous.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/Nightly.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/Calcula.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/PACKAGE.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/Formulas/CMakeFiles/formulas.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/Formulas/CMakeFiles/PACKAGE.dir
+C:/Users/tsh40/Desktop/Prog-C/Program/build/Formulas/CMakeFiles/RUN_TESTS.dir

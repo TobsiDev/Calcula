@@ -1,0 +1,10 @@
+^C:\USERS\TSH40\DESKTOP\PROG-C\PROGRAM\BUILD\CMAKEFILES\8C57B60E462F7F8A7D0CE68D458C1F6B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SC:/Users/tsh40/Desktop/Prog-C/Program -BC:/Users/tsh40/Desktop/Prog-C/Program/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/tsh40/Desktop/Prog-C/Program/build/Calcula.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
