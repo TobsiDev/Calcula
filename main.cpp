@@ -2,7 +2,9 @@
 #include <thread>
 #include <chrono>
 
-#include "Formulas/adder.h"
+#include "Formulas/formulas.h"
+//#include "Formulas/adder.h"
+//#include "Formulas/ball.h"
 
 int main(int, char **)
 {
@@ -10,6 +12,13 @@ int main(int, char **)
     bool stop = false;
 
     std::cout << "Hello, Welcome to Calcula!\n";
+
+    // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+    // X    THIS IS FOR TESTING THE FORMULAS    X
+    // XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+    std::cout << "Calculating Volume of a Ball | V = 4/3 * Pi * 28^3 = " << volBall(28) << std::endl;
+    std::cout << "Calculating Volume of a Cube | V = 4 * 7 * 26 = " << volCube(4, 7, 26) << std::endl;
 
     while (!stop)
     {

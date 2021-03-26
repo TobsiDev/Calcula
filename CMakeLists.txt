@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.0.0)
-project(Calcula VERSION 0.1.0)
+project(Calcula VERSION 0.1.1)
 
 include(CTest)
 enable_testing()
 
-add_executable(${PROJECT_NAME} main.cpp)
+add_executable(${PROJECT_NAME} main.cpp formulas)
 
 add_subdirectory(Formulas)
 

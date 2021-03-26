@@ -1,1 +1,1 @@
-add_library(formulas adder.cpp)
+add_library(formulas formulas.cpp adder.cpp ball.cpp cube.cpp)
